@@ -1,0 +1,4 @@
+pytets 3.2.3
+pylint 1.7.4
+
+-r requirements.txt
